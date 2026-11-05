@@ -4,6 +4,8 @@ Aplicación de consola interactiva, escrita en Python, para explorar, resumir y 
 
 Se construyó solo con la biblioteca estándar de Python: no usa NumPy, Pandas ni expresiones regulares (`re`). La única dependencia externa es matplotlib, y es opcional: si no está instalada, el programa funciona igual y simplemente omite los gráficos.
 
+Explicacion del código (Video): https://teams.microsoft.com/l/meetingrecap?driveId=b%21hZWxN5v8AkiPXjc1PnXnuAhT5qDByatOo-T_Z21OqfkfKg9BAM8BRYJV-M8ltQnW&driveItemId=01VOZYFMN22LCDWQXYLZGKHZKW6NE7C6ZZ&sitePath=https%3A%2F%2Fupbeduco-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fjeronimo_ortizg_upb_edu_co%2FIQC60sQ7QvheTKPlVvNJ8Xs5AX-grGZZGqTpNmID26B3kIo&fileUrl=https%3A%2F%2Fupbeduco-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fjeronimo_ortizg_upb_edu_co%2FIQC60sQ7QvheTKPlVvNJ8Xs5AX-grGZZGqTpNmID26B3kIo&threadId=19%3A0b9e04e3-9ed6-4943-82fa-24bde53df32c_20b0493d-deb1-4975-aacf-17045fa17276%40unq.gbl.spaces&callId=22e26c5c-be19-4164-9f64-204041675e7e&threadType=OneOnOneChat&meetingType=Unknown&subType=RecapSharingLink_RecapChiclet&recapType=Recording
+
 ## Contenido
 
 1. [Qué hace](#qué-hace)
