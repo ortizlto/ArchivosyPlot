@@ -14,6 +14,7 @@ Se construyó solo con la biblioteca estándar de Python: no usa NumPy, Pandas n
 6. [Mapa de llamadas](#mapa-de-llamadas)
 7. [Referencia de funciones](#referencia-de-funciones)
 8. [Constantes de configuración](#constantes-de-configuración)
+9. [Diagramas de flujo](Diagramas-de-flujo)
 
 ## Qué hace
 
@@ -252,3 +253,6 @@ Definidas al inicio de `main_minimal.py`; cambiar su valor ajusta el comportamie
 | `PALABRAS_VACIAS` | Conectores, artículos, preposiciones y pronombres en español e inglés | Palabras que no entran en el conteo de frecuencias. |
 | `COLORES`, `C_*` | Paleta de colores | Estilo común de todos los gráficos. |
 | `MATPLOTLIB_DISPONIBLE` | `True` o `False` | Indica si matplotlib se pudo importar; si es `False`, se omiten los gráficos. |
+
+## Diagramas de Flujo
+Link: https://canva.link/3ykv3j2l6stmukd
